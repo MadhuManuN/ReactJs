@@ -1,0 +1,36 @@
+.parent1{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.parent1 .dName{
+    margin-left: 300px;
+    color: cornflowerblue;
+    font-family: cursive;
+    font-size: 40px;
+    
+}
+.child1{ 
+    width: 800px;
+    height: 420px;
+    text-align: center;
+    border-radius: 40px ;
+    margin: 20px;
+    background-color: lightgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: midnightblue;
+    box-shadow: 8px 8px 30px 1px rgba(red, green, blue, alpha);
+    border-radius: 4px solid black;
+    overflow: hidden;
+    padding: 25px;
+}
+#imgInfo{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+.head .btn{
+    margin-left: 120px;
+}
+.head a{
+    text-decoration: none ;
+}

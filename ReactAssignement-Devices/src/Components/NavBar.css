@@ -1,0 +1,12 @@
+.nav a{
+    text-decoration: none ;
+    color: white;
+}
+img{
+    height:50px;
+    width: 120px;
+    margin-top: 10px;
+}
+body{
+    background-color: #F7F7F7;
+}

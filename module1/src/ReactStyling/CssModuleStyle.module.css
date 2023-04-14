@@ -1,0 +1,13 @@
+.moduleStyle {
+    color: DodgerBlue;
+    margin-top: 20px;
+    font-family: Sans-Serif;
+    background-color: burlywood;
+    font-size: 25px;
+  }
+  .dataStyle{
+    color: violet;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }

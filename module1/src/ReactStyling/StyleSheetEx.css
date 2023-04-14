@@ -1,0 +1,13 @@
+h2{
+    color: brown;
+    background-color: antiquewhite;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h3{
+    color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-top: 5px;
+}
