@@ -1,0 +1,75 @@
+.div1{
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    background-color: yellow;
+    color: brown;
+    height: 60px;
+  }
+  .div1 li{
+    list-style: none;
+  }
+  .div1 li a{
+    text-decoration: none;
+  }
+  .div2 li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .div2 li a{
+    padding: 0px 20px;
+  }
+  .pad li a{
+    padding: 0px 0px;
+  }
+  
+  #anchor{
+    margin-top:  4px;
+  }
+  .div2 li a input {
+    width: 450px;
+    height: 33px;
+    border: none;
+  }
+  .div3 li a{
+  padding: 0px 30px;
+  color: brown;
+  
+  }
+  .div3 li a button{
+    width: 100px;
+    height: 35px;
+  }
+  
+  /* select */
+  #cars{
+    border: none;
+  }
+  
+  #cars option{
+    border: none;
+  }
+  
+  .home{
+    color: red;
+  }
+  .products{
+    display: grid;
+    grid-template-columns: 400px 400px;
+    justify-items: center;
+    width: 800px;
+    margin: auto;
+  }
+  .product{
+    width: 350px;
+    height: 400px;
+  }
+  .product img{
+    width: 200px;
+    height: 250px;
+  }
+  .display-prod>h1{
+    text-align: center;
+  }
